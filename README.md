@@ -1,4 +1,4 @@
-先装exe文件或apk软件为Tailscale手机安装apk电脑Windows安装exe如果没有你的系统就去官网下载https://tailscale.com/download
+先装exe软件为Tailscale电脑Windows安装exe如果没有你的系统就去官网下载https://tailscale.com/download
 打开Tailscale用github登录
 回到github点击行动或actions
 选择Windowsrdpserver

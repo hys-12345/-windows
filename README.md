@@ -8,6 +8,4 @@
 Address: 💝💝
 Username: ❤
 Password: User: 💓| Password: 💜💜
-==================
-[10/25/2025 00:54:04] RDP Active - Use Ctrl+C in workflow to terminate
 就去下载Windowsapp然后链接即可（用户名是Username:后面的    密码是Password: 后面的）复制即可
